@@ -1,0 +1,24 @@
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\bin\Debug\Smoke beta test.exe.config
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\bin\Debug\Smoke beta test.exe
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\bin\Debug\Smoke beta test.pdb
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke beta test.csproj.AssemblyReference.cache
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke_beta_test.Form1.resources
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke_beta_test.Properties.Resources.resources
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke beta test.csproj.GenerateResource.cache
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke beta test.csproj.CoreCompileInputs.cache
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke beta test.csproj.CopyComplete
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke beta test.exe
+C:\Users\nohox\source\repos\Smoke beta test\Smoke beta test\obj\Debug\Smoke beta test.pdb
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\bin\Debug\Smoke beta test.exe.config
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\bin\Debug\Smoke beta test.exe
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\bin\Debug\Smoke beta test.pdb
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke beta test.csproj.AssemblyReference.cache
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke_beta_test.Form1.resources
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke_beta_test.Properties.Resources.resources
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke beta test.csproj.GenerateResource.cache
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke beta test.csproj.CoreCompileInputs.cache
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke beta test.csproj.CopyComplete
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke beta test.exe
+C:\Users\nohox\source\repos\Smoke [beta]\Smoke beta test\obj\Debug\Smoke beta test.pdb
